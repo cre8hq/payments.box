@@ -3,14 +3,14 @@
 	if (isset($_POST['email'])) {
 
 		// EDIT THE 2 LINES BELOW AS REQUIRED
-		$email_to = "hey@sarozpoddar.com.np";
-		$email_subject = "My offer for [Your Domain]";
+		$email_to = "chalkduster69@gmail.com";
+		$email_subject = "My offer for payments.box";
 
 
 		$name = $_POST['name']; // required
 		$email_from = $_POST['email']; // required
-		$telephone = $_POST['phone']; // not required
-		$price = $_POST['price']; // not required
+		$telephone = $_POST['phone']; // required
+		$price = $_POST['price']; // required
 		$comments = $_POST['comments']; // required
 
 
@@ -38,7 +38,7 @@
 <html lang="en">
 		<head>
 				<meta charset="utf-8">
-				<title>Sales Inquery || [Your Domain]</title>
+				<title>Sales Inquery || payments.box</title>
 				<meta name="viewport" content="width=device-width, initial-scale=1.0">
 				<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css">
 				<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
@@ -53,16 +53,16 @@
 							<div class="bg-faded col-sm-6 text-center col-fixed">
 									<div class="vMiddle">
 										<h1 class="pt-4 h2">
-											<span>Thak you for offer, I will contact as soon as possible. Cheers !!!</span>
+											<span>Thak you for offer, I will contact as soon as possible. Cheers!!!</span>
 										</h1>
 										<div class="row d-md-flex text-center justify-content-center text-primary action-icons">
 											<div class="col-sm-4">
 												<p><em class="ion-ios-telephone-outline icon-md"></em></p>
-												<p class="lead"><a href="tel:+[Your Phone]">+[Your Phone]</a></p>
+												<p class="lead"><a href="tel:612-460-5635‬">612-460-5635‬</a></p>
 											</div>
 											<div class="col-sm-4">
 												<p><em class="ion-ios-chatbubble-outline icon-md"></em></p>
-												<p class="lead"><a href="mailto:hello@example.com">email@[Your Domain].com</a></p>
+												<p class="lead"><a href="chalkduster69@gmail.com">chalkduster69@gmail.com</a></p>
 											</div>
 									</div>
 								</div>
