@@ -62,7 +62,7 @@
 											</div>
 											<div class="col-sm-4">
 												<p><em class="ion-ios-chatbubble-outline icon-md"></em></p>
-												<p class="lead"><a href="chalkduster69@gmail.com">chalkduster69@gmail.com</a></p>
+												<p class="lead"><a href="chalkduster69@gmail.com">Buy Payments.box</a></p>
 											</div>
 									</div>
 								</div>
